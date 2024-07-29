@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj": {}
+    "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj": {
+    "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj",
+        "projectUniqueName": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj",
         "projectName": "BookyApp",
-        "projectPath": "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj",
+        "projectPath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj",
         "packagesPath": "C:\\Users\\clene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\obj\\",
+        "outputPath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

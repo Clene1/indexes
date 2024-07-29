@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCgkl+qKHVU=",
+  "dgSpecHash": "zK21SpWWvcY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\clene\\source\\repos\\indexes\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clene\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\clene\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

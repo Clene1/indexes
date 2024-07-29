@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clene\\source\\repos\\indexes\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\clene\\source\\repos\\indexes\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\clene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clene\\source\\repos\\indexes\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1045,8 +1045,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj": {
-              "projectPath": "C:\\Users\\clene\\source\\repos\\indexes\\BookyApp\\BookyApp.csproj"
+            "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj": {
+              "projectPath": "C:\\Users\\clene\\Visual Studio Projects\\indexes\\BookyApp\\BookyApp.csproj"
             }
           }
         }
