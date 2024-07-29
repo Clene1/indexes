@@ -1,0 +1,14 @@
+C:\Users\clene\source\repos\BookyApp\bin\Debug\net8.0\BookyApp.exe
+C:\Users\clene\source\repos\BookyApp\bin\Debug\net8.0\BookyApp.deps.json
+C:\Users\clene\source\repos\BookyApp\bin\Debug\net8.0\BookyApp.runtimeconfig.json
+C:\Users\clene\source\repos\BookyApp\bin\Debug\net8.0\BookyApp.dll
+C:\Users\clene\source\repos\BookyApp\bin\Debug\net8.0\BookyApp.pdb
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.AssemblyInfoInputs.cache
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.AssemblyInfo.cs
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.csproj.CoreCompileInputs.cache
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.dll
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\refint\BookyApp.dll
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.pdb
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\BookyApp.genruntimeconfig.cache
+C:\Users\clene\source\repos\BookyApp\obj\Debug\net8.0\ref\BookyApp.dll
