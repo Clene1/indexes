@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clene\\source\\repos\\BookyApp\\BookyApp.csproj",
+      "projectUniqueName": "C:\\Users\\clene\\OneDrive\\Documents\\Year 3\\indexes\\BookyApp.csproj",
       "projectName": "BookyApp",
-      "projectPath": "C:\\Users\\clene\\source\\repos\\BookyApp\\BookyApp.csproj",
+      "projectPath": "C:\\Users\\clene\\OneDrive\\Documents\\Year 3\\indexes\\BookyApp.csproj",
       "packagesPath": "C:\\Users\\clene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clene\\source\\repos\\BookyApp\\obj\\",
+      "outputPath": "C:\\Users\\clene\\OneDrive\\Documents\\Year 3\\indexes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
