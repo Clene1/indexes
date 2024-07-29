@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookyApp", "BookyApp.csproj", "{8C1B3E69-8763-42A5-BD6B-4B1C1473D4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{2740C968-8061-4FF0-9513-CF42055E6640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1B3E69-8763-42A5-BD6B-4B1C1473D4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1B3E69-8763-42A5-BD6B-4B1C1473D4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1B3E69-8763-42A5-BD6B-4B1C1473D4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1B3E69-8763-42A5-BD6B-4B1C1473D4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2740C968-8061-4FF0-9513-CF42055E6640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2740C968-8061-4FF0-9513-CF42055E6640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2740C968-8061-4FF0-9513-CF42055E6640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2740C968-8061-4FF0-9513-CF42055E6640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86064EF-C2A4-420E-81E1-DF3D313A413B}
+	EndGlobalSection
+EndGlobal
